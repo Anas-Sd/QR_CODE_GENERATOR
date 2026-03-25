@@ -6,8 +6,8 @@
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-QR_Generator-FF6B6B?style=for-the-badge)](https://your-demo-link.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/Anas-Sd/QR-Code-Generator?style=for-the-badge&color=gold)](https://github.com/Anas-Sd/QR-Code-Generator)
-[![GitHub Forks](https://img.shields.io/github/forks/Anas-Sd/QR-Code-Generator?style=for-the-badge&color=8B5CF6)](https://github.com/Anas-Sd/QR-Code-Generator)
+[![GitHub Stars](https://img.shields.io/github/stars/Anas-Sd/QR_Code_Generator?style=for-the-badge&color=gold)](https://github.com/Anas-Sd/QR-Code-Generator)
+[![GitHub Forks](https://img.shields.io/github/forks/Anas-Sd/QR_CODE_GENERATOR?style=for-the-badge&color=8B5CF6)](https://github.com/Anas-Sd/QR-Code-Generator)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
